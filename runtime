@@ -1,4 +1,4 @@
-# Basic Calculator GUI Application in Python
+#calculator
 
 import tkinter as tk
 
